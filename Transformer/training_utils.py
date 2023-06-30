@@ -8,8 +8,8 @@ from torch.cuda.amp import autocast, GradScaler
 from torch.optim import AdamW
 from torch.optim.lr_scheduler import CosineAnnealingLR
 
-# from tqdm import tqdm
-from tqdm.notebook import tqdm
+from tqdm import tqdm
+# from tqdm.notebook import tqdm
 
 from custom_config import cfg, NUM_COLS, TXT_COLS, LEVEL2QUESTION
 from kfold_split import split_data
