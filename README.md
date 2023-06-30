@@ -16,6 +16,7 @@ After that, clone this repository, and move the data into the code directory
 `
 mv ext_data Kaggle-competition---Predicting-Student-Performance
 mv data Kaggle-competition---Predicting-Student-Performance
+cd Kaggle-competition---Predicting-Student-Performance
 `
 
 Install polars if you don't have it `!pip install polars`
