@@ -14,9 +14,9 @@ unzip pspsuplementary-data -d ext_data
 
 After that, clone this repository, and move the data into the code directory
 `
-mv ext_data Kaggle-competition---Predicting-Student-Performance
-mv data Kaggle-competition---Predicting-Student-Performance
-cd Kaggle-competition---Predicting-Student-Performance
+mv ext_data Kaggle-competition---Predicting-Student-Performance----part-of--8th-solution
+mv data Kaggle-competition---Predicting-Student-Performance----part-of--8th-solution
+cd Kaggle-competition---Predicting-Student-Performance----part-of--8th-solution
 `
 
 Install polars if you don't have it `!pip install polars`
